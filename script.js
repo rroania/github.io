@@ -1,4 +1,4 @@
-const startDate = new Date("2023-11-20");
+const startDate = new Date("2023-11-24");
 const weddingDate = new Date("2025-11-25");
 const now = new Date();
 
